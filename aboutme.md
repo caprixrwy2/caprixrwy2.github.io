@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am and what I'm about
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Riley Yuen, class of 2023. A few facts about me, boring or not:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm from New York City
+- My dog has two teeth total
 
 What else do you need?
 
