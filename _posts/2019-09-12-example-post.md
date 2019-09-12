@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Example Post
-subtitle: Each post also has a subtitle
 tags: [test, post, partyfuntimes]
 comments: true
 ---
