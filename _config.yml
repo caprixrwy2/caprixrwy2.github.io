@@ -25,7 +25,7 @@ navbar-links:
     - Search: "http://www.google.com"
     - School: "http://www.williams.edu"
     - Learn markdown: "http://www.markdowntutorial.com/"
-   Home: "caprixrwy2.github.io"
+  Home: "caprixrwy2.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
