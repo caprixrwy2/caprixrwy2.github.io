@@ -6,7 +6,7 @@ gh-badge: [sewing, assignment, CSCI103]
 
 The front of my Sewing Sampler 
 
-![alt text] [/img/Sewingsamplerfront.jpg]
+![alt text] (https://github.com/caprixrwy2/markdown-here/raw/master/src/common/images/Sewingsamplerfront.jpg "front of sewing sampler")
 
 The back of my Sewing Sampler 
 "/img/Sewing_Sampler_Back.HEIC"{:.center-block:}
