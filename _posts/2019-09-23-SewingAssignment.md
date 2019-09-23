@@ -6,7 +6,7 @@ gh-badge: [sewing, assignment, CSCI103]
 
 The front of my Sewing Sampler 
 
-![Front of Sewing Sampler] "/img/Sewing_Sampler_Front.PDF"{:.center-block:}
+![Front of Sewing Sampler] "/img/Sewingsamplerfront.jpg"{:.center-block:}
 
 The back of my Sewing Sampler 
 "/img/Sewing_Sampler_Back.HEIC"{:.center-block:}
