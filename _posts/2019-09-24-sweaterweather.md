@@ -9,9 +9,9 @@ For example, if temp=-23:
 
 ![neg23](http://caprixrwy2.github.io/img/sweaterweather-neg23.png)
 
-And if temp=72:
+And if temp=70:
 
-![pos70](http://caprixrwy2.github.io/img/sweaterweather-70.png)
+![pos70](http://caprixrwy2.github.io/img/Sweaterweather-70.png)
 
 and if temp=200: 
 
