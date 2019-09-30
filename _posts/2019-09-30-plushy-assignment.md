@@ -22,4 +22,4 @@ And the front of my plushy:
 
 ![frontofplushy](http://caprixrwy2.github.io/img/Plushy_front.jpg)
 
-Tip: It is always worth checking and rechecking again and again, over and over! 
+Tip: It is always worth checking and rechecking where your positives and negatives are again and again, over and over! 
