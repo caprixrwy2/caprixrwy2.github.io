@@ -14,12 +14,12 @@ Next, we prototyped the plushy itself on paper. Using pencil, we marked out wher
 
 ![paperprototype](http://caprixrwy2.github.io/img/paperprototype_plushy.jpg)
 
-Finally we were able to put all the prototypes to work. Here is the front of my plushy:
+Finally we were able to put all the prototypes to work. Here is the back of my plushy:
 
-![frontofplushy](http://caprixrwy2.github.io/img/Plushy_back.jpg)
+![backofplushy](http://caprixrwy2.github.io/img/Plushy_back.jpg)
 
-And the back of my plushy:
+And the front of my plushy:
 
-![backofplushy](http://caprixrwy2.github.io/img/Plushy_front.jpg)
+![frontofplushy](http://caprixrwy2.github.io/img/Plushy_front.jpg)
 
 Tip: It is always worth checking and rechecking again and again, over and over! 
