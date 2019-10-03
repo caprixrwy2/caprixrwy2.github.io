@@ -26,3 +26,4 @@ then the option would be:
 
 ![unviableoption](https://caprixrwy2.github.io/img/unviableoption.jpg)
 
+A tip I would give to myself is to really pay attention to the curly brackets!
