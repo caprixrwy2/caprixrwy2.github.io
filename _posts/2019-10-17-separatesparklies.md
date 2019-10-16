@@ -15,4 +15,4 @@ This is a picture of the lilypad lighting up during the running of the synchrono
 
 ![synchronouslilypad](https://caprixrwy2.github.io/img/lilypad_litup.jpg) 
 
-A tip I would give to my past self is to not think of Arduino as something complete separate from C, a lot of the things that work in C also work in Arduino! 
+A tip I would give to my past self is to not think of Arduino as something completely separate from C, a lot of the things that work in C also work in Arduino! 
