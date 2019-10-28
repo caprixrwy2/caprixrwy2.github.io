@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sweater Weather Coding Assignment 
+title: Simultaneous Sparklies Coding Assignment  
 gh-badge: [arduino, coding, CSCI103, computer science]
 ---
 
