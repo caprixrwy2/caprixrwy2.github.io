@@ -13,6 +13,6 @@ Here is a photo of the button being pressed, giving a blue light:
 
 And pressed again, producing a random pink color:
 
-![pinkrandom](https://caprixrwy2.github.io/img/pink_randcolor,jpg)
+![pinkrandom](https://caprixrwy2.github.io/img/pink_randcolor.jpg)
 
 A tip I would give to myself is to keep looking at my past codes, specifically the one I did for the simultaneous sparklies because they give a lot of helpful information, even if they're unrelated. 
