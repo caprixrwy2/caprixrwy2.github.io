@@ -24,7 +24,7 @@ For this project, I needed:
 * White Fabric Paint to insulate 
 
 here is the front of my paper prototype: 
-![paperprototypefront](https://caprixrwy2.github.io/img/paperprototypewithbatt.jpg)
+![paperprototypefront](https://caprixrwy2.github.io/img/paperprototypewithbatt1.jpg)
 
 Here is the back of my paper prototype: 
 ![paperprototypeback](https://caprixrwy2.github.io/img/paperprototype-back.jpg)
