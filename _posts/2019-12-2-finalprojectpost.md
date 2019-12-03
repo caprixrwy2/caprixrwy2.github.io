@@ -43,15 +43,15 @@ room temperature (below average body temperature):
 
 fever temperature (using a hair dryer to heat it up):
 
-![hot](https://caprixrwy2.github.io/img/fever.jpg)
+![hot](https://caprixrwy2.github.io/img/fever.JPG)
 
 and regular body temperature (taken as the temperature sensor cooled down from the hair dryer heat):
 
-![bodytemp](https://caprixrwy2.github.io/img/regulartemp.jpg)
+![bodytemp](https://caprixrwy2.github.io/img/regulartemp.JPG)
 
 Here is the back of my final project, where you can see the insulation of my traces: 
 
-![backofproject](https://caprixrwy2.github.io/img/projectback.jpg)
+![backofproject](https://caprixrwy2.github.io/img/projectback.JPG)
 
 The tips I would give to my past self are: 
 
